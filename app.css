@@ -1,0 +1,24 @@
+.ebookcard{display:flex;flex-direction:column;align-items:center;padding:50px 10px 20px;gap:30px;box-sizing:border-box;position:relative;width:172.5px;height:302px;background:#FFFFFF;border:1px solid rgba(0, 0, 0, 0.5);box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);border-radius:20px;}
+.ebookcard-icon{display:flex;flex-direction:column;align-items:center;padding:0px;gap:10px;flex:none;order:0;flex-grow:0;margin:px;width:132px;height:159px;}
+.ebookcard-icon-icon{display:flex;flex-direction:row;justify-content:center;align-items:center;padding:0px;gap:10px;flex:none;order:0;flex-grow:0;margin:px;width:132px;height:121px;background:rgba(39, 174, 96, 0.5);border-radius:100px;}
+.ebookcard-icon-iconName{flex:none;order:1;flex-grow:0;margin:px;width:120px;height:28px;font-family:'Roboto';font-style:normal;font-weight:400;font-size:24px;line-height:28px;color:#000000;}
+.ebookcard-pill{display:flex;flex-direction:row;align-items:flex-start;padding:0px;flex:none;order:1;align-self:stretch;flex-grow:0;margin:px;height:43px;}
+.ebookcard-pill-availability{display:flex;flex-direction:row;justify-content:center;align-items:center;padding:7px 10px;gap:8px;flex:none;order:0;align-self:stretch;flex-grow:1;margin:px;box-sizing:border-box;width:76.25px;border:2px solid #27AE60;border-radius:100px 0px 0px 100px;}
+.ebookcard-pill-availability-icon{flex:none;order:0;flex-grow:0;margin:px;width:20px;}
+.ebookcard-pill-availability-number{flex:none;order:1;flex-grow:0;margin:px;width:34px;height:19px;font-family:'Roboto';font-style:normal;font-weight:400;font-size:16px;line-height:19px;color:#000000;}
+.ebookcard-pill-action{display:flex;flex-direction:row;justify-content:center;align-items:center;padding:10px;gap:34px;flex:none;order:1;align-self:stretch;flex-grow:1;margin:px;width:76.25px;background:#27AE60;border-radius:0px 100px 100px 0px;}
+.ebookcard-pill-action-type{flex:none;order:0;flex-grow:0;width:32px;height:19px;font-family:'Roboto';font-style:normal;font-weight:400;font-size:16px;line-height:19px;color:#FFFFFF;}
+
+.findthingPageContent{display:flex;flex-direction:column;align-items:flex-start;padding:24px 17px;gap:15px;position:relative;width:375px;height:614px;}
+.findthingPageContent-announcement{flex:none;order:0;align-self:stretch;flex-grow:1;margin:px;height:130.25px;background:rgba(242, 153, 74, 0.65);}
+.findthingPageContent-announcement-name{position:relative;width:145.43px;height:42.08px;left:calc(50% - 145.43px/2 + 62.68px);top:calc(50% - 42.08px/2 + 1px);font-family:'Roboto';font-style:normal;font-weight:400;font-size:36px;line-height:42px;color:#000000;}
+.findthingPageContent-announcement-icon{position:relative;width:100.29px;height:100.19px;left:calc(50% - 100.29px/2 - 88.26px);top:calc(50% - 100.19px/2 - 0px);}
+.findthingPageContent-lecture{flex:none;order:1;align-self:stretch;flex-grow:1;margin:px;height:130.25px;background:rgba(242, 201, 76, 0.65);}
+.findthingPageContent-lecture-name{position:relative;width:145px;height:42px;left:calc(50% - 145px/2 + 62px);top:calc(50% - 42px/2 - 0.12px);font-family:'Roboto';font-style:normal;font-weight:400;font-size:36px;line-height:42px;text-align:center;color:#000000;}
+.findthingPageContent-lecture-icon{position:relative;width:100px;height:96px;left:calc(50% - 100px/2 - 88.5px);top:calc(50% - 96px/2 - 0.12px);}
+.findthingPageContent-borrow{flex:none;order:2;align-self:stretch;flex-grow:1;margin:px;height:130.25px;background:rgba(39, 174, 96, 0.45);}
+.findthingPageContent-borrow-name{position:relative;width:145px;height:42px;left:calc(50% - 145px/2 + 62px);top:calc(50% - 42px/2 - 0.12px);font-family:'Roboto';font-style:normal;font-weight:400;font-size:36px;line-height:42px;color:#000000;}
+.findthingPageContent-borrow-icon{position:relative;width:90px;height:90px;left:calc(50% - 90px/2 - 88.5px);top:calc(50% - 90px/2 - 0.12px);}
+.findthingPageContent-classmap{flex:none;order:3;align-self:stretch;flex-grow:1;margin:px;height:130.25px;background:rgba(47, 128, 237, 0.45);}
+.findthingPageContent-classmap-name{position:relative;width:145px;height:42px;left:calc(50% - 145px/2 + 62px);top:calc(50% - 42px/2 - 0.12px);font-family:'Roboto';font-style:normal;font-weight:400;font-size:36px;line-height:42px;color:#000000;}
+.findthingPageContent-classmap-icon{position:relative;width:95px;height:95px;left:calc(50% - 95px/2 - 88px);top:calc(50% - 95px/2 - 0.62px);}
